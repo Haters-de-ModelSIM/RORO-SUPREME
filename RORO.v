@@ -1,0 +1,33 @@
+module RORO(
+    input [11:0] Instruccion,
+    output [31:0] Resultado,
+    output ZF
+);
+
+wire [31:0] C1, C2;
+
+ROM ROMA(
+    .DirL(Instruccion[7:4]),
+    .Data(C1)
+);
+
+ROM ROMINA(
+    .DirL(Instruccion[3:0]),
+    .Data(C2)
+);
+
+ALUMIPS PABLO(
+    .ALUctl(Instruccion[11:8]), 
+    .A(C1),
+    .B(C2),
+    .ALUOut(Resultado),
+    .Zero(ZF)
+);
+
+initial 
+begin
+    $readmemb("ROMa_init.txt", ROMA.srom);
+    $readmemb("ROMina.txt", ROMINA.srom);
+end
+
+endmodule

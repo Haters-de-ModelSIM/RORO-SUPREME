@@ -1,0 +1,16 @@
+module ROM(
+    input [3:0] DirL,
+    output [31:0] Data
+);
+
+reg [31:0] srom [0:15];
+
+assign Data = srom[DirL];
+
+initial begin
+    // Carga los datos desde un archivo externo usando $readmemb
+    // Asegúrate de tener los archivos ROMa_init.txt y ROMina_init.txt en tu proyecto
+    $readmemb("ROM_init.txt", srom);
+end
+
+endmodule
