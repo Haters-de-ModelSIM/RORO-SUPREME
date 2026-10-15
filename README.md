@@ -5,9 +5,9 @@ Proyecto colaborativo desarrollado para la materia de Arquitectura de Computador
 ## Equipo: Haters. 
 
 Integrantes del Equipo
-* [Rodríguez López Rogelio Eduardo] - Enlace al perfil de GitHub
-* [Mendoza Maciel Yara Abigail] - Enlace al perfil de GitHub
-* [Javier Antonio Espinosa de los Monteros Lopez] - Enlace al perfil de GitHub
+* [Rodríguez López Rogelio Eduardo] - [Enlace al perfil de GitHub](https://github.com/rogeliorodriguez6539-sketch)
+* [Mendoza Maciel Yara Abigail] - [Enlace al perfil de GitHub](https://github.com/yara200211)
+* [Javier Antonio Espinosa de los Monteros Lopez] - [Enlace al perfil de GitHub](https://github.com/YuzelRose)
 
 ---
 
