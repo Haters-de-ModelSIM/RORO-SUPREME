@@ -5,9 +5,9 @@ Proyecto colaborativo desarrollado para la materia de Arquitectura de Computador
 ## Equipo: Haters. 
 
 Integrantes del Equipo
-* [Rodríguez López Rogelio Eduardo] - [Enlace al perfil de GitHub](https://github.com/rogeliorodriguez6539-sketch)
-* [Mendoza Maciel Yara Abigail] - [Enlace al perfil de GitHub](https://github.com/yara200211)
-* [Javier Antonio Espinosa de los Monteros Lopez] - [Enlace al perfil de GitHub](https://github.com/YuzelRose)
+* [Rodríguez López Rogelio Eduardo] - [Enlace al perfil de GitHub](https://github.com/rogeliorodriguez6539-sketch) Aportación: La creación de la ALU y el Readme.
+* [Mendoza Maciel Yara Abigail] - [Enlace al perfil de GitHub](https://github.com/yara200211) Aportación: La creación de RORO Supreme.
+* [Javier Antonio Espinosa de los Monteros López] - [Enlace al perfil de GitHub](https://github.com/YuzelRose) Aportación: Edición y corrección  los archivos .txt y la creación de Testbench y simulación. 
 
 ---
 
