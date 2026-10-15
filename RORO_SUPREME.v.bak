@@ -1,0 +1,13 @@
+module RORO_SUPREME(
+	input[15:0] DirL,
+	output[11:0] Data
+);
+
+reg[31:0] srom[0:15];
+
+initial
+begin
+	$readmemb("datos1.txt",ROMina.srom)
+end
+
+endmodule
